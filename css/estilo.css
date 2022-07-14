@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(247, 245, 241);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div{
+    background-color:#0d5e05;
+
+}
+
+.explore{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.Telefone{
+    text-align: center;
+}   
+.Email{
+    text-align: center;
+}
